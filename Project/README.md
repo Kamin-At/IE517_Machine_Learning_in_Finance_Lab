@@ -1,5 +1,5 @@
 # IE517 - Machine Learning in Finance Laboratory @ UIUC - MS in Financial Engineering
-IE517 - Machine Learning in Finance Laboratory Research Project - We replicate the techniques used in https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4000756 to estimate american call option price with Heston Stochastic Volatility model using PDE-based techniques with deep neural networks
+IE517 - Machine Learning in Finance Laboratory Research Project - We replicate the techniques used in https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4000756 to estimate american call option price obtained from Heston Stochastic Volatility model using PDE-based techniques with deep neural networks
 
 
 Workers 
